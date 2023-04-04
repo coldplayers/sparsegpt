@@ -1,1 +1,5 @@
 __pycache__
+
+
+# ignore data dir
+data
